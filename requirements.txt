@@ -1,0 +1,15 @@
+# MATLAB & EEGLAB requirements for this template
+
+MATLAB >= R2019b
+# Optional: Parallel Computing Toolbox (if you parallelize your own loops)
+
+EEGLAB (latest recommended; tested up to 2025.x)
+Plugins:
+  - ICLabel           (component classification)
+  - clean_rawdata     (ASR; function: clean_artifacts)
+  - bva-io            (BrainVision importer for pop_loadbv)
+# (Optional) BIOSIG if you prefer that importer stack
+
+# Data:
+#  - BrainVision triplets (.vhdr, .vmrk, .eeg) in ./data/raw
+#  - Channel locations file (e.g., standard_1005.elc) in ./resources
