@@ -1,6 +1,6 @@
 # EEG Preprocessing Template (MATLAB + EEGLAB)
 
-A clean, **GitHub-ready** template for preprocessing EEG BrainVision datasets. It generalizes an internal lab script into an open-source, documented pipeline with user-tunable parameter sweeps and QC logging.
+Template for preprocessing EEG BrainVision datasets. It generalizes an internal lab script into an open-source, documented pipeline with user-tunable parameter sweeps and QC logging.
 
 ## What it does (pipeline order)
 
