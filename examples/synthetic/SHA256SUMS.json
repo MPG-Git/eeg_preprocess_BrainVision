@@ -1,0 +1,10 @@
+{
+  "data/synthetic.eeg": "9514ffb3299962e48536d7547418880b12a9ace130c24eabd93fd152aff8a126",
+  "data/synthetic.vhdr": "6b434ae2e9a1a68ad0cde4374b3d4ef7b9d50f468c31fefadee4e6a1130edaac",
+  "data/synthetic.vmrk": "e0cacd4326e1dd31eb80794556beae02bfe2e0714481d418adcac657b288a848",
+  "expected/cleaned_preview.png": "48c5c7f9142adb821d8b0f1058aa81fffc2978a8a1d2914ba6c38e0acb7ee6c8",
+  "expected/ICLabel_dynamic_log.csv": "cb0468d4d139c51d1f707b90050849f502f15308c6a63285f9b2037049c7f84d",
+  "expected/metrics.csv": "d60eefa40cd6fc68f46fee2df110d8c2e6fa23f3bf6b1dba4f94e2279ff316b1",
+  "expected/synthetic_ASR_tradeoff.csv": "07ca56df40288e5dfe33b5ac12055b817af4761b8fc30899edad7ff3e05e1436",
+  "expected/synthetic_ICLabel_tradeoff.csv": "fc2c8ca459377a481e96c44e207fe6f88e8edd0a3c1f73d56fe59d1eb8401bfa"
+}

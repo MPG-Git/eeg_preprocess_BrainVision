@@ -1,0 +1,6 @@
+Metric,Value,AbsTolerance
+Channels,9,0
+SamplingRateHz,100,0
+AverageReferenceMaxResidual,2.65219944771565e-16,1e-06
+TrialKeep,1,0.1
+SNR,0.211151455459557,0.05

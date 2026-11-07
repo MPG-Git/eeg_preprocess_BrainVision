@@ -78,3 +78,10 @@ A synthetic BrainVision recording was also processed through actual filtering,
 ASR, ICA, ICLabel and saving in the readiness audit. It used a small sweep and
 128 ICA iterations; it verifies integration, not convergence or artifact
 removal effectiveness on real study recordings.
+
+## Downloadable synthetic example
+
+[Run the bundled synthetic example](examples/synthetic/README.md) to check your setup against
+included reference outputs. It contains actual input files, a one-command runner,
+expected tables/plots, and numerical comparisons that report PASS or a mismatch.
+The example guide links to the ZIP of this review branch, including the readiness fixes.

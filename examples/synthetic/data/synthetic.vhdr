@@ -1,0 +1,19 @@
+Brain Vision Data Exchange Header File Version 1.0
+[Common Infos]
+DataFile=synthetic.eeg
+MarkerFile=synthetic.vmrk
+DataFormat=BINARY
+DataOrientation=MULTIPLEXED
+NumberOfChannels=8
+SamplingInterval=10000
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+[Channel Infos]
+Ch1=F3,,1,uV
+Ch2=F4,,1,uV
+Ch3=C3,,1,uV
+Ch4=C4,,1,uV
+Ch5=Fz,,1,uV
+Ch6=Cz,,1,uV
+Ch7=Pz,,1,uV
+Ch8=Oz,,1,uV
